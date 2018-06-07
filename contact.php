@@ -2,7 +2,8 @@
 <?php include 'include/header.php'; 
 
 if(isset($_REQUEST['sub_btn'])){
-$to      = 'info@stronglh.co.nz';
+//$to      = 'info@stronglh.co.nz';
+$to      = 'ph9716942965@gmail.com';
 $subject = 'Contact Query';
 $message = "Hi Administrator,". "\r\n\r\n" 
         . "First Name:".$_REQUEST['firstname']."". "\r\n" 
