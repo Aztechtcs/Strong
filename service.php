@@ -76,7 +76,8 @@
    </div>
    <div class="col-md-6 zero">
      <div class="EmailUs">
-      <a href="mailto:info@stronglh.co.nz">Email</a>
+      <?php /*<a href="mailto:info@stronglh.co.nz">Email</a>*/ ?>
+	  <a href="http://stronglh.co.nz/contact.php">Email</a>
     </div> 
    </div>
  </div>

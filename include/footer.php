@@ -73,7 +73,8 @@ if($mailsend1){
           <a href="javascript:;"><img src="img/phone.png"/> 021 SLHIRE</a> 
           <a href="tel:021 754 473"><img src="img/phone.png"/> 021 74 4473</a> 
           <a href="javascript:;"><img src="img/pobox.png"/> PO Box 64008, Botany, Auckland 2163</a>
-          <a href="mailto:info@stronglh.co.nz"><img src="img/email.png"/> info@stronglh.co.nz</a> 
+          <?php /*<a href="mailto:info@stronglh.co.nz"><img src="img/email.png"/> info@stronglh.co.nz</a> */?>
+		  <a href="http://stronglh.co.nz/contact.php"><img src="img/email.png"/> info@stronglh.co.nz</a>
        </footer>
        
        <div class="HomeMedia">
