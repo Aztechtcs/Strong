@@ -2,16 +2,16 @@
 <?php include 'include/header.php'; 
 
 if(isset($_REQUEST['sub_btn'])){
-//$to      = 'info@stronglh.co.nz';
-$to      = 'ph9716942965@gmail.com';
+$to      = 'info@stronglh.co.nz';
+//$to      = 'ph9716942965@gmail.com';
 $subject = 'Contact Query';
 $message = "Hi Administrator,". "\r\n\r\n" 
-        . "First Name:".$_REQUEST['firstname']."". "\r\n" 
-        . "Last Name:".$_REQUEST['lastname']."". "\r\n" 
-        . "Company:".$_REQUEST['company']."". "\r\n" 
-        . "Phone:".$_REQUEST['phone']."". "\r\n" 
-        . "Email:".$_REQUEST['email']."". "\r\n" 
-        . "Message:".$_REQUEST['message']."";
+        . "First Name: ".$_REQUEST['firstname']."". "\r\n" 
+        . "Last Name: ".$_REQUEST['lastname']."". "\r\n" 
+        . "Company: ".$_REQUEST['company']."". "\r\n" 
+        . "Phone: ".$_REQUEST['phone']."". "\r\n" 
+        . "Email: ".$_REQUEST['email']."". "\r\n" 
+        . "Message :".$_REQUEST['message']."";
 $headers = 'From: '.$_REQUEST['email'].'' . "\r\n" .
     'Reply-To: info@stronglh.co.nz' . "\r\n" .
     'X-Mailer: PHP/' . phpversion();
