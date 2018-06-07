@@ -1,0 +1,148 @@
+*{ margin:0px; padding:0px;font-family:'Cairo',sans-serif; font-family: 'Roboto', sans-serif; font-family: 'Roboto Condensed', sans-serif;}
+.zero{ padding:0px;}
+.marginTop{ margin-top:85px;}
+.marginTopCallEmail{ margin-top:60px;}
+.modal-lg{ width:90% !important;}
+.PopupBgFirst{ width:100%; float:left; height:auto; background:rgba(0,0,0,0.6);}
+.Lab .navbar-brand {padding: 0px;}
+.Lab .navbar-brand>img {height: 100%;  padding: 15px;  width: auto;}
+.Lab .navbar-brand {height: auto;}
+.Lab .nav >li >a {padding: 16px; color:#ED1C24; font:18px 'Cairo',sans-serif;}
+.Lab .navbar-default .navbar-nav > li > a:focus, .Lab .navbar-default .navbar-nav > li > a:hover{ color:#6D6E71;}
+.Lab .navbar-default .navbar-nav > .active > a{ background:none; color:#6D6E71;}
+.Lab .navbar-toggle { padding: 10px;  margin: 14px 15px 12px 0;}
+.active{ background:none; color:#6D6E71;}
+
+.hedarebgcolor{width:100%; float:left; background:#f8f8f8; box-shadow:0px 0px 10px 5px #999; position:fixed; top:0px; left:0px; z-index:11;}
+header img{ max-height:100%; max-width:100%; margin:14px 0; float:left; display:block; width:120px;}
+.LeftNeedStaf{ width:100%; float:left; height:540px; background:url(../img/needstaff.jpg) no-repeat; background-size: cover;}
+.Gray {background-image:linear-gradient(rgba(109, 110, 113, 0.7), rgba(109, 110, 113, 0.7)),url(../img/needstaff.jpg);}
+.Gray:hover{background-image:linear-gradient(rgba(109, 110, 113, 0.9), rgba(109, 110, 113, 0.9)),url(../img/needstaff.jpg);}
+.LeftNeedStaf .NeedInnerGrid { width:100%; float:left; padding:10px 0px; position:relative;}
+.LeftNeedStaf .NeedInnerGrid h2 { width:100%; float:left; text-align:center; padding:8px 0px; font:80px 'Roboto Condensed', sans-serif; color:#fff; 
+font-weight:900; margin-top:70px;}
+.LeftNeedStaf .NeedInnerGrid p{width:100%; float:left; text-align:center; padding:8px 0px; font:25px 'Roboto', sans-serif; color:#fff;}
+.LeftNeedStaf .NeedInnerGrid button{width:auto; float:left; text-align:center; padding:7px 25px; font:20px 'Roboto', sans-serif; color:#fff; border:1px solid #fff; background:#ED1C24; position:absolute; left:50%; top:440px; transform:translateX(-50%); border-radius:0px;}
+
+.RightForWork{ width:100%; float:left; height:540px; background:url(../img/lookingforwork.jpg) no-repeat; background-size: cover;}
+.red {background-image:linear-gradient(rgba(237, 28, 36, 0.7), rgba(237, 28, 36, 0.7)),url(../img/lookingforwork.jpg);}
+.red:hover {background-image:linear-gradient(rgba(237, 28, 36, 0.9), rgba(237, 28, 36, 0.9)),url(../img/lookingforwork.jpg);}
+.RightForWork .WorkInnerGrid {width:100%; float:left; padding:10px 0px; position:relative;  border-radius:0px;}
+.RightForWork .WorkInnerGrid h2 {width:100%; float:left; text-align:center; padding:8px 0px; font:80px 'Roboto Condensed', sans-serif; color:#fff; 
+font-weight:900; margin-top:70px;}
+.RightForWork .WorkInnerGrid p{width:100%; float:left; text-align:center; padding:8px 0px; font:25px 'Roboto', sans-serif; color:#fff;}
+.RightForWork .WorkInnerGrid button{width:auto; float:left; text-align:center; padding:7px 25px; font:20px 'Roboto', sans-serif; color:#fff; border:1px solid #fff; background:#6D6E71; position:absolute; left:50%; top:440px; transform:translateX(-50%); border-radius:0px;}
+
+.HomeText{ width:100%; float:left; height:auto; padding:8px 0px;}
+.HomeText h3{width:100%; float:left; text-align:center; font:35px 'Cairo', sans-serif; color:#ED1C24; padding:10px 0px;}
+.HomeText img{ max-height:100%; max-width:100%; margin:8px auto; display:block; width:80px;}
+.HomeText p{ width:100%; float:left; text-align:center; font:20px 'Roboto Condensed', sans-serif; color:#000; padding:10px 0px; line-height:30px; letter-spacing:0.5px;}
+.HomeMedia{ width:100%; float:left; height:auto; padding:8px 0px 20px 0;}
+.HomeMedia h3{width:100%; float:left; text-align:center; font:35px 'Cairo', sans-serif; color:#ED1C24; padding:10px 0px;}
+.HomeMedia span{ width:100%; float:left; margin-left:30px;}
+.HomeMedia a{ width:auto; float:left; height:auto; padding:0 10px;}
+.HomeMedia a img{ max-height:100%; max-width:100%; margin:0 auto; display:block; width:60px;}
+
+
+.HomeCenterIMg{ width:100%; float:left; height:auto; padding:8px 0px;}
+.HomeCenterIMg img{ max-height:100%; max-width:100%; margin:8px auto; display:block; width:100%;}
+
+.CallUs{ width:100%; float:left; height:auto; background:#6D6E71;}
+.CallUs a{ width:100%; float:left; height:auto; padding:10px 0px; font:35px 'Cairo', sans-serif ; color:#fff; text-align:center;}
+
+.EmailUs{ width:100%; float:left; height:auto; background:#ED1C24;}
+.EmailUs a{ width:100%; float:left; height:auto; padding:10px 0px; font:35px 'Cairo', sans-serif ; color:#fff; text-align:center;}
+
+footer{ width:100%; float:left; height:auto; padding:10px 0px;}
+footer a{ width:auto; float:left; height:auto; padding:5px 0px; display:inline-block; font:25px 'Cairo', sans-serif ; color:#6d6e71; padding:0 15px;}
+footer a img{ max-width:100%; max-height:100%; float:left; display:block; width:35px; padding-top:12px; padding-right:10px;}
+.HomeMedia .PoweredText{ width:100%; float:left; height:auto; padding:0px;}
+.HomeMedia .PoweredText span{width:100%; float:left; text-align:right; font:14px 'Cairo', sans-serif; color:#6d6e71; padding:5px 0px; margin:0px;}
+
+/***  Service  **/
+.Service_Dt{ width:100%; float:left; height:auto; margin-bottom:25px;}
+.Service_Dt h2{ width:100%; float:left; height:auto; padding:5px 0px; text-align:center; font:45px 'Cairo', sans-serif; font-weight:700; color:#6d6e71; margin-top:0px;}
+.Service_Dt span{ width:100%; float:left; height:auto; border:2px solid #6d6e71; color:#6d6e71; font:20px 'Roboto', sans-serif; text-align:center; padding:25px; margin-bottom:30px;}
+.Service_Dt a{ width:100%; float:left; height:auto; color:#ED1C24; font:30px 'Cairo', sans-serif; text-align:center; padding:2px; margin-bottom:30px;}
+
+
+/**  Contact Form  **/
+.width45{ width:50% !important; float:left; height:auto;}
+.ContactForm{ width:100%; float:left; height:auto; position:relative;}
+.ContactForm .InnerFormGrid{ width:100%; float:left; height:auto; background:#ED1C24;}
+.ContactForm .InnerFormGrid form{ width:100%; float:left; height:auto; padding:20px;}
+.ContactForm .InnerFormGrid form p{ width:100%; float:left; height:auto; margin-bottom:15px;  background: #fff; position:relative;}
+.ContactForm .InnerFormGrid form p label{ width:auto; float:left; height:auto; padding:0px; margin:0px; font:13px 'Cairo', sans-serif; color:#ED1C24; position:absolute; top:10px; right:10px;}
+.ContactForm .InnerFormGrid form p input[type="text"]{width: 100%; float: left; height: auto; padding: 20px 0px; text-indent: 8px; font: 15px 'Roboto', sans-serif ;border: none; caret-color: red; text-transform:capitalize;}
+.ContactForm .InnerFormGrid form p textarea{width: 100%; float: left; height:100px; padding: 10px 0px; text-indent: 8px; font: 15px 'Roboto', sans-serif ;border: none; caret-color: red; text-transform:uppercase;}
+.ContactForm .InnerFormGrid form input[type='submit']{ width:100%; float:right; height:auto; padding:8px 15px; text-align:center; font:30px 'Roboto', sans-serif; background:#ED1C24; border:none; color:#fff; margin-top:10px; letter-spacing:0.5px;}
+.ContactForm .RightImg{ width:100%; float:left; height:auto; padding:10px 0px; position:absolute; left:-10%; top:-60px;}
+.ContactForm .RightImg img{ max-width:100%; max-height:100%; display:block; float:left; width:500px;}
+
+
+.Contact_Dt{ width:100%; float:left; height:auto; margin-bottom:25px;}
+.Contact_Dt h2{ width:100%; float:left; height:auto; padding:5px 0px; text-align:center; font:45px 'Cairo', sans-serif; font-weight:700; color:#6d6e71; margin-top:0px;}
+.Contact_Dt a{ width:100%; float:left; height:auto; border:2px solid #6d6e71; color:#6d6e71; font:28px 'Roboto', sans-serif; text-align:center; padding:20px; margin-bottom:30px;}
+.Contact_Dt a img{ max-height:100%; max-width:100%; margin:0 auto 15px auto; display:block; width:30px;}
+.Contact_Dt h2{ width:100%; float:left; height:auto; color:#ED1C24; font:35px 'Cairo', sans-serif; text-align:center; padding:2px; font-weight:500;}
+
+/***  Popup First  **/
+.width35{ width:35% !important; float:left; height:auto; margin:0px;}
+.PopupEnquire{ width:100%; float:left; height:auto; padding:5px;}
+.PopupEnquire .InnerEnquireText{ width:100%; float:left; height:auto;}
+.PopupEnquire .InnerEnquireText p{ width:100%; float:left; text-align:left; font:18px 'Roboto', sans-serif; color:#fff; padding:5px 0px; line-height:23px; letter-spacing:0.5px; margin:0px;}
+.PopupEnquire .InnerEnquireText strong{ width:100%; float:left; text-align:left; font:23px 'Roboto', sans-serif; color:#fff; padding:5px 0px; line-height:23px; letter-spacing:0.5px; margin:0px; text-transform:uppercase;}
+.PopupEnquire .InnerEnquireText h4{ width:100%; float:left; height:auto; color:#ED1C24; font:45px 'Cairo', sans-serif; text-align:center; padding:2px;}
+.PopupEnquire .InnerEnquireText img{ max-height:100%; max-width:100%; margin:0 auto 15px auto; display:block;}
+
+.PopupEnquire .InnerForm{ width:100%; float:left; height:auto; background:#6D6E71;}
+.PopupEnquire .InnerForm form{ width:100%; float:left; height:auto; padding:20px;}
+.PopupEnquire .InnerForm form .FullWidth{ width:100%; float:left; height:auto; margin-bottom:15px;  background: #fff; position:relative;}
+/*.PopupEnquire .InnerForm form p.width45{ width:50% !important; float:left; height:auto; margin-bottom:15px;}
+.PopupEnquire .InnerForm form p.width45 label{ width:35%; float:left; text-indent:5px; height:auto; font: 15px 'Roboto', sans-serif; color:#9c9c9c; margin:0px; padding:10px 0px;}
+.PopupEnquire .InnerForm form p.width45 input[type="text"]{width:65%; float: left; height: auto; padding: 10px 0px; text-indent: 8px; font: 15px 'Roboto', sans-serif ;border: none; caret-color: red;}
+.PopupEnquire .InnerForm form p label{ width:30%; float:left; text-indent:5px; height:auto; font: 15px 'Roboto', sans-serif; color:#9c9c9c; margin:0px; padding:10px 0px;}*/
+.PopupEnquire .InnerForm form .FullWidth input[type="text"]{width:100%; float: left; height: auto; padding: 12px 0px; text-indent: 8px; font: 15px 'Roboto', sans-serif ;border: none; caret-color: red; text-transform:capitalize;}
+.datepicker{ padding:0px;}
+.datepicker > span:hover{cursor: pointer;}
+.PopupEnquire .InnerForm form .FullWidth .filterDate2{ width:100%; float:left; height:auto; position:relative;}
+.PopupEnquire .InnerForm form .FullWidth small{font: 15px 'Roboto', sans-serif ; color:#9c9c9c; width:100%; float:left; padding:13px 0px 13px 10px; text-transform:uppercase;}
+.PopupEnquire .InnerForm form .FullWidth .radiobttn{ width:100%; float:left; height:auto; padding:13px 0px 0px; text-transform:uppercase;}
+.PopupEnquire .InnerForm form .FullWidth [type="radio"]:checked,.PopupEnquire .InnerForm form .FullWidth [type="radio"]:not(:checked) { position: absolute; left: -9999px; top:5px;}
+.PopupEnquire .InnerForm form .FullWidth [type="radio"]:checked + label,.PopupEnquire .InnerForm form .FullWidth [type="radio"]:not(:checked) + label{ position: relative; padding-left: 28px; cursor: pointer; line-height: 20px; display: inline-block; color: #666; margin-left:10px; font: 15px 'Roboto', sans-serif ; color:#9c9c9c;}
+.PopupEnquire .InnerForm form .FullWidth [type="radio"]:checked + label:before,.PopupEnquire .InnerForm form .FullWidth [type="radio"]:not(:checked) + label:before { content: ''; position: absolute; left: 0; top: 0; width: 18px; height: 18px; border: 1px solid #ddd; border-radius: 100%;background: #fff;}
+.PopupEnquire .InnerForm form .FullWidth [type="radio"]:checked + label:after,.PopupEnquire .InnerForm form .FullWidth [type="radio"]:not(:checked) + label:after { content: ''; width: 12px; height: 12px; background: #ED1C24; position: absolute; top: 3px; left: 3px; border-radius: 100%; -webkit-transition: all 0.2s ease; transition: all 0.2s ease;}
+.PopupEnquire .InnerForm form .FullWidth [type="radio"]:not(:checked) + label:after {opacity: 0;    -webkit-transform: scale(0);    transform: scale(0);}
+.PopupEnquire .InnerForm form .FullWidth [type="radio"]:checked + label:after { opacity: 1; -webkit-transform: scale(1); transform: scale(1);}
+
+.PopupEnquire .InnerForm form .FullWidth textarea{width: 100%; float: left; height:103px; padding: 10px 0px; text-indent: 8px; font: 15px 'Roboto', sans-serif ;border: none; caret-color: red; text-transform:uppercase;}
+.PopupEnquire .InnerForm form .FullWidth label{ width:auto; float:left; height:auto; padding:0px; margin:0px; font:13px 'Cairo', sans-serif; color:#ED1C24; position:absolute; top:10px; right:10px;}
+.PopupEnquire .InnerForm form button{ width:100%; float:right; height:auto; padding:8px 15px; text-align:center; font:25px 'Roboto', sans-serif; background:none; border:none; color:#fff; margin-top:10px; letter-spacing:0.5px;}
+
+
+
+/***
+****Media Query****
+***/
+
+@media screen and (max-width: 768px) {
+	.LeftNeedStaf .NeedInnerGrid h2,.RightForWork .WorkInnerGrid h2{ font-size:57px;}
+	.HomeText h3,.HomeMedia h3{ font-size:25px;}
+	.HomeText p{ font-size:16px;}
+	.HomeMedia a img{ width:40px;}
+	.HomeMedia .Media64{ width:120px; margin:0 auto;}
+	.HomeMedia span{ width:100px; margin:0px auto; float:none; display:block;}
+	.Service_Dt a,.Contact_Dt h2{ font-size:24px;}
+	.ContactForm .RightImg{ position:static;}
+	.ContactForm .InnerFormGrid form p,.PopupEnquire .InnerEnquireText p,.PopupEnquire .InnerForm form .FullWidth{ width:100% !important;}
+	.Contact_Dt a,.PopupEnquire .InnerEnquireText strong{ font-size:20px;}
+	 footer a,.LeftNeedStaf .NeedInnerGrid p,.RightForWork .WorkInnerGrid p{ font-size:20px;}
+	 footer a img{ padding-top:8px; margin:0 auto; display:block; float:none;}
+	 footer a{text-align: center; display: block; margin: 0 auto; width: 100%; border-bottom: 1px dotted #000;}
+	.Service_Dt span,.PopupEnquire .InnerEnquireText p{ font-size:16px;}
+	.mediaPadd{ padding:0px;}
+	.PopupEnquire .InnerForm form{ padding:20px 10px;}
+	.PopupEnquire .InnerEnquireText h4{ font-size:23px;}
+	.HomeMedia .PoweredText span{ text-align:center; width:100%; float:left;}
+	}
+	
